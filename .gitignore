@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+cypress/screenshots/
+
+# production
+/build
+/dist
+
+# OS
+.DS_Store
+
+# Logs
+npm-debug.log*
+npm-error.log*
