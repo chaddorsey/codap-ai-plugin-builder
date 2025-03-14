@@ -1,0 +1,16 @@
+.drawing {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+
+  .dragIcon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    pointer-events: none;
+  }
+
+
+
+}
